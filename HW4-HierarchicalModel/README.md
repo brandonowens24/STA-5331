@@ -1,7 +1,7 @@
 # STA 5331: Homework 4
 
 ## Bayesian Inference
-A normal hierarchical model to help with retail sales. 
+A normal hierarchical model to help with retail sales. See [RMD](https://github.com/brandonowens24/STA-5331/blob/main/HW4-HierarchicalModel/hw4.Rmd) for the full breakdown.
 
 ## The Data
 Takes a very small dataset from different packaging designs for a theoretical cereal company.
